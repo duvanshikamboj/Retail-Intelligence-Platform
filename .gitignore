@@ -1,5 +1,31 @@
-myenv/
+# Virtual Environment
+newenv/
+venv/
+env/
+
+# Python
 __pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
 .ipynb_checkpoints/
-*.pyc
+
+# VS Code
 .vscode/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Environment Variables
+.env
+
+# Generated Output
+output/
+
+# PDF Reports
+*.pdf
