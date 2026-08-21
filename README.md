@@ -43,9 +43,8 @@ Retail-Intelligence-Platform/
 ├── data/
 │   ├── raw/
 │   └── processed/
-├── model/
+├── models/
 ├── notebooks/
-├── output/
 ├── requirements.txt
 └── README.md
 ```
@@ -99,4 +98,4 @@ streamlit run app/app.py
 
 B.Tech CSE
 
-AI & Data Science Enthusiast
+AI/ML and Data Science Learner 
